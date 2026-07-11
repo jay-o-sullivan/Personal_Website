@@ -1,20 +1,18 @@
 # personal_website
 
-A simple personal portfolio website built with HTML, CSS, and JavaScript.
+A responsive personal portfolio website designed to showcase professional experience, technical skills, projects, and contact information.
+
+Built using core web technologies with a focus on simplicity, performance, and maintainability
 
 ## Files
 - index.html - Main page structure
 - styles.css - Visual styling and responsive layout
 - script.js - Small enhancement for the footer year
 
-## Preview locally
-Run the following from the project folder:
+## PURPOSE
 
-```bash
-python -m http.server 8000
-```
+This project was created as a personal portfolio to demonstrate front-end development skills and provide a professional online presence for potential employers and collaborators.
 
-Then open http://localhost:8000 in your browser.
 
 ## Customize
 Replace the placeholder text, project cards, and email address in index.html to make it your own.
