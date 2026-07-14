@@ -1,5 +1,6 @@
 # Personal Portfolio
-[Personal Website] (https://jay-o-sullivan.github.io/Personal_Website/)
+
+[Personal Website live site](https://jay-o-sullivan.github.io/Personal_Website/)
 
 A responsive personal portfolio website designed to showcase professional experience, technical skills, projects, and contact information.
 
