@@ -1,4 +1,4 @@
-# Personnal Portfolio
+# Personal Portfolio
 
 A responsive personal portfolio website designed to showcase professional experience, technical skills, projects, and contact information.
 
